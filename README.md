@@ -199,6 +199,13 @@ Book enthusiasts can use this application to manage their personal libraries. Ad
 Overall, this LMS application provides a foundational structure for managing book collections. It can be a valuable tool for small libraries, personal libraries, or educational settings where basic organization and tracking of books are needed
 
 
+# Screen Shots
+![image](https://github.com/sakshisah7/Library-Management-System1/assets/156561427/94b1ad53-2116-44fb-9ac3-c28609a79eb8)
+
+![image](https://github.com/sakshisah7/Library-Management-System1/assets/156561427/d3c2712f-5553-47cb-9cbd-5cb5d9e8aa75)
+
+
+
 
 
 
